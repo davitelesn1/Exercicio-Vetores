@@ -1,1 +1,1 @@
-Através desse exercicio-projeto, eu pude enteder melhor como funciona os vetores. Utilizei o Jframe para simular janelas e codigos que interagissem com o click do mouse.
+Through this exercise-project, I was able to better understand how vectors work. I used Jframe to simulate windows and codes that interact with a mouse click.
